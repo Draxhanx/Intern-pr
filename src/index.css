@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: GeneralSans;
+    src: url(./assets/GeneralSans_Complete/Fonts/TTF/GeneralSans-Variable.ttf);
+}
+
+ol{
+    list-style-type:upper-number
+}
